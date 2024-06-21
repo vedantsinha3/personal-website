@@ -34,11 +34,9 @@ nav{
 }
 
 logo{
-    width: 100px;
+    width: 50px;
     height: auto;
-
 }
-
 nav ul li{
     display: inline-block;
     list-style: none;
@@ -83,7 +81,7 @@ nav ul li a:hover::after{
 /* --------------about------------ */
 #about{
     padding: 80px 0;
-    color: #ababab;
+    color: #ffffff;
 }
 
 .row{
@@ -124,7 +122,7 @@ nav ul li a:hover::after{
 .skills h2 {
     margin-bottom: 10px;
     font-size: 24px;
-    color: #8c0000;
+    color: #ba0000;
 }
 .skills ul {
     list-style: none;
@@ -169,8 +167,8 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #8c0000;
-    font-size: 14px;
+    color: #890000;
+    font-size: 36px;
 }
 
 .tab-contents{
